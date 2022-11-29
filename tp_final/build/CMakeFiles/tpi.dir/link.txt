@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=gnu++11 -ggdb3 -Wall   CMakeFiles/tpi.dir/src/jjoo.cpp.o CMakeFiles/tpi.dir/src/atleta.cpp.o CMakeFiles/tpi.dir/src/competencia.cpp.o CMakeFiles/tpi.dir/src/ojota.cpp.o CMakeFiles/tpi.dir/src/tipos.cpp.o CMakeFiles/tpi.dir/src/main.cpp.o  -o tpi -rdynamic 

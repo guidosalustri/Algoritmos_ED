@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a  CMakeFiles/src.dir/src/jjoo.cpp.o CMakeFiles/src.dir/src/atleta.cpp.o CMakeFiles/src.dir/src/competencia.cpp.o CMakeFiles/src.dir/src/ojota.cpp.o CMakeFiles/src.dir/src/tipos.cpp.o CMakeFiles/src.dir/src/main.cpp.o
+/usr/bin/ranlib libsrc.a
