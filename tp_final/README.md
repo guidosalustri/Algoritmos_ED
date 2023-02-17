@@ -1,4 +1,4 @@
-### ALGORITHMS AND DATA STRUCTURE I final group project.
+### ALGORITHMS AND DATA STRUCTURE I: final group project.
 
 # Cómo correr los tests desde la línea de comandos (si no usan CLion)
 
