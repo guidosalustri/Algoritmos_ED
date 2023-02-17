@@ -1,18 +1,4 @@
-# Para empezar
-
-1. Crear un repo propio y clonarlo en un directorio local.
-2. Entrar al directorio y hacer: 
-`git remote add docentes https://git.exactas.uba.ar/ltaravilse/algo1-tpi`
-3. Luego para traer los cambios
-`git pull docentes master`
-4. (Opcional) Desde CLion, ir a File -> Import Project, "Open Project".
- Una vez que termina la carga del proyecto, para correr los tests, 
- elegir "correrTests" desde la esquina superior derecha y 
- hacer click en el botón Play.
- 
-Pueden mantener su repositorio actualizado siempre ejecutando `git pull docentes master`
-
-Si no desean usar Git (NO recomendado), pueden descargar desde aquí mismo el código fuente.
+### ALGORITHMS AND DATA STRUCTURE I final group project.
 
 # Cómo correr los tests desde la línea de comandos (si no usan CLion)
 
